@@ -1,9 +1,9 @@
 # BIGF v2.4 Gate Compiler & Studio
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.<ZENODO_ID>.svg)](https://doi.org/10.5281/zenodo.<ZENODO_ID>)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24215776.svg)](https://doi.org/10.5281/zenodo.24215776)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-**Live Browser Studio:** [https://ErkkiLaine.github.io/bigf-gate-studio/](https://<GITHUB_USERNAME>.github.io/bigf-gate-studio/)
+**Live Browser Studio:** [https://erkkilaine.github.io/bigf-gate-studio/](https://erkkilaine.github.io/bigf-gate-studio/)
 
 A zero-dependency, air-gapped browser compiler and deterministic simulator for the **Business Impact Governance Framework (BIGF v2.4)**. It compiles canonical **BIA Anchor Specifications** into deterministic Open Policy Agent (OPA / Rego v1) runtime authorization gates (`Authority = f(B, S, T)`), pure-integer $10^{-4}$ fixed-point arithmetic (zero IEEE-754 floating-point parsing), RFC 8785 JCS SHA-256 cryptographic anchor digests, unit tests, and telemetry collectors.
 
@@ -69,4 +69,6 @@ When an active outage or zero-day containment requires intervention *while* `BII
 
 **Author:** Erkki Laine (VITI Labs)  
 **Foundational Specification:** *Business Impact Governance Framework (BIGF)* — DOI: [`10.5281/zenodo.22658623`](https://doi.org/10.5281/zenodo.22658623)  
+**Executive Simulator:** *BIGF Executive Search Simulator* — DOI: [`10.5281/zenodo.23667357`](https://doi.org/10.5281/zenodo.23667357)  
+**Reference Framework:** *BIGF Framework* — DOI: [`10.5281/zenodo.23667573`](https://doi.org/10.5281/zenodo.23667573)  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
