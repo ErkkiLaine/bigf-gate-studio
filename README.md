@@ -72,3 +72,13 @@ When an active outage or zero-day containment requires intervention *while* `BII
 **Executive Simulator:** *BIGF Executive Search Simulator* — DOI: [`10.5281/zenodo.23667357`](https://doi.org/10.5281/zenodo.23667357)  
 **Reference Framework:** *BIGF Framework* — DOI: [`10.5281/zenodo.23667573`](https://doi.org/10.5281/zenodo.23667573)  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+## Support the Next Starship Enterprise (or Buy a Mug)
+
+BIGF Gate Studio is 100% free, zero-dependency, and requires zero billable consulting hours to run. 
+
+However, if this single HTML file just saved your team from a 14-person Friday afternoon CAB meeting—and you want to fund **Erkki Laine** in building the next *Starship Enterprise* (or at least keep the VITI Labs espresso machine running at deterministic 0.4 ms latency)—you can pick up official `403 HARD HALT` and governance gear from the VITI Labs Merch Store:
+
+* **VITI Labs Official Merch & Hardware Division:** https://viti-labs.myspreadshop.fi
+
+*(No SaaS subscriptions, no enterprise sales calls—just deterministic mugs, hoodies, and stickers.)*
