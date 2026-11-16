@@ -1,7 +1,7 @@
 # BIGF v2.4 Gate Compiler & Studio
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24215776.svg)](https://doi.org/10.5281/zenodo.24215776)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: AGPL-3.0 / Commercial](https://img.shields.io/badge/License-AGPL--3.0%20%2F%20Commercial-blue.svg)](#intellectual-property--dual-licensing-notice)
 
 **Live Browser Studio:** [https://erkkilaine.github.io/bigf-gate-studio/](https://erkkilaine.github.io/bigf-gate-studio/)
 
