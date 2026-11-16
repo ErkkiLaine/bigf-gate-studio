@@ -1,0 +1,25 @@
+name: Compiler / Studio Bug Report
+description: Report a Rego v1 compilation, RFC 8785 JCS canonicalization, or browser simulator issue.
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: browser_env
+    attributes:
+      label: Browser & Version
+      placeholder: "e.g., Chrome 131 / Edge / Firefox"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the expected vs. actual compiler or simulator output.
+    validations:
+      required: true
+  - type: textarea
+    id: anchor_json
+    attributes:
+      label: BIA Anchor Specification / Test Input
+      description: Paste the sanitized JSON input that triggered the issue.
+      render: json
