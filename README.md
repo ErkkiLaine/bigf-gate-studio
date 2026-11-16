@@ -65,13 +65,24 @@ When an active outage or zero-day containment requires intervention *while* `BII
 
 ---
 
-## Author & Citation
+## Author, Citation & Licensing
 
-**Author:** Erkki Laine (VITI Labs)  
-**Foundational Specification:** *Business Impact Governance Framework (BIGF)* — DOI: [`10.5281/zenodo.22658623`](https://doi.org/10.5281/zenodo.22658623)  
-**Executive Simulator:** *BIGF Executive Search Simulator* — DOI: [`10.5281/zenodo.23667357`](https://doi.org/10.5281/zenodo.23667357)  
-**Reference Framework:** *BIGF Framework* — DOI: [`10.5281/zenodo.23667573`](https://doi.org/10.5281/zenodo.23667573)  
-**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+* **Author & Copyright Holder:** Erkki Laine
+* **Foundational Specification:** *Business Impact Governance Framework (BIGF)* — [DOI 10.5281/zenodo.22658623](https://doi.org/10.5281/zenodo.22658623)
+* **Executive Simulator:** *BIGF Executive Search Simulator* — DOI: `10.5281/zenodo.23667357`
+* **Reference Framework:** *BIGF Framework* — DOI: `10.5281/zenodo.23667573`
+* **ServiceNow Runtime Gate:** *BIGF Runtime Gate for ServiceNow* — [github.com/erkkilaine/bigf-servicenow-gate](https://github.com/erkkilaine/bigf-servicenow-gate)
+
+### Intellectual Property & Dual-Licensing Notice
+
+**Copyright (c) 2026 Erkki Laine. All Rights Reserved.**
+
+1. **Compiler & Studio Software (`AGPL-3.0` / Commercial):**
+   The *BIGF Gate Compiler & Studio* source code and mathematical architecture (`Authority = f(B, S, T)`, `10^-4` integer canonicalization) are the sole intellectual property of **Erkki Laine**. Use, modification, or network hosting of this software is governed by the **GNU Affero General Public License v3.0 (AGPL-3.0)** for open-source and non-commercial use. Any proprietary SaaS hosting, white-labeling, or closed-source commercial deployment requires a prior written **Commercial License Agreement** executed by **Erkki Laine**.
+2. **Generated Policy Artifacts (`bigf_gate.rego`):**
+   Organizations are granted a non-exclusive license to run compiled `.rego` policy outputs internally within their own infrastructure, provided all embedded copyright headers, canonical DOI citations, and `Authority = f(B, S, T)` attribution notices remain intact. Commercial redistribution or incorporation into third-party GRC/ITSM products is prohibited without written authorization.
+3. **Trademark & Attribution Protection:**
+   The names *Erkki Laine*, *Business Impact Governance Framework*, and *BIGF* may not be used to endorse, certify, or market third-party consulting or software offerings without explicit written permission from **Erkki Laine**.
 
 ## Support the Next Starship Enterprise (or Buy a Mug)
 
