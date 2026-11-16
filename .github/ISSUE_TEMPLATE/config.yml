@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official Merch & Governance Apparel
+    url: https://viti-labs.myspreadshop.fi
+    about: Support independent deterministic governance research and grab official BIGF / governance gear.
+  - name: ServiceNow Runtime Gate Module
+    url: https://github.com/ErkkiLaine/bigf-servicenow-gate
+    about: Zero-dependency ServiceNow Change Management enforcement module for BIGF v2.4.
